@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23486328.svg)](https://doi.org/10.5281/zenodo.23486328)
+
 # swot_airsea_eddy_analysis
 Accompanying analysis of SWOT observations of wind-wave-current interactions over mesoscale eddy. This repository contains two main directories:
 
